@@ -1,6 +1,6 @@
 {
   "name": "icarusbot-reddit",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A Reddit command for icarusbot",
   "main": "index.js",
   "scripts": {
