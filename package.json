@@ -1,0 +1,19 @@
+{
+  "name": "icarusbot-reddit",
+  "version": "0.0.0",
+  "description": "A Reddit command for icarusbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kid-icarus/icarusbot-reddit.git"
+  },
+  "author": "Ryan Kois",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kid-icarus/icarusbot-reddit/issues"
+  },
+  "homepage": "https://github.com/kid-icarus/icarusbot-reddit"
+}
