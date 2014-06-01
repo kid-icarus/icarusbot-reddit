@@ -1,6 +1,6 @@
 {
   "name": "icarusbot-reddit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Reddit command for icarusbot",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kid-icarus/icarusbot-reddit/issues"
   },
-  "homepage": "https://github.com/kid-icarus/icarusbot-reddit"
+  "homepage": "https://github.com/kid-icarus/icarusbot-reddit",
+  "dependencies": {
+    "terminus": "^1.0.9"
+  }
 }
